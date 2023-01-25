@@ -1,3 +1,3 @@
 # TermWork-Project 
-Repository for termwork project
+Repository for termwork project 
  
