@@ -5,7 +5,7 @@
 
 This is Netflix Web project
 
-O resultado da aplicação pode ser acessado através da seguinte URL: [https://frantend.github.io/netflix-clone](https://frantend.github.io/netflix-clone)
+You can find this project at [[https://frantend.github.io/netflix-clone](https://frantend.github.io/netflix-clone)](https://github.com/Divyanshu960/Netflix-Clone-App/)
 
 ## 📋 Tecnologias 
 
@@ -16,4 +16,4 @@ I used->
 
 ## 🎨 Layout
 
-<img href="https://frantend.github.io/netflix-clone/" alt="layout-interface-netflix" title="layout-interface-netflix" src="img/layout-interface-netflix.png" width="800px">
+![image](https://user-images.githubusercontent.com/72182690/214788210-922db035-e743-439f-baeb-333cb7ffc217.png)
