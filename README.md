@@ -5,7 +5,7 @@
 
 This is Netflix Web project
 
-You can find this project at [[https://frantend.github.io/netflix-clone](https://frantend.github.io/netflix-clone)](https://github.com/Divyanshu960/Netflix-Clone-App/)
+You can find this project at (https://github.com/Divyanshu960/Netflix-Clone-App/)
 
 ## 📋 Tecnologias 
 
