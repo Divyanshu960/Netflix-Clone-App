@@ -1,7 +1,7 @@
 
 # A Netflix Clone Application
 
-## 💻 Projeto
+## 💻 Project
 
 This is Netflix Web project
 
