@@ -12,7 +12,7 @@ You can find this project at (https://github.com/Divyanshu960/Netflix-Clone-App/
 I used->
 - HTML
 - CSS 
-- JavaScript 
+- JavaScript  
  
 ## 🎨 Layout
 
