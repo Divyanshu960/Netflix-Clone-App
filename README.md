@@ -1,4 +1,3 @@
-
 # A Netflix Clone Application
 
 ## 💻 Project
