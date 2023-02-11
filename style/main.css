@@ -3,11 +3,11 @@
     --preta:#141414;
 }
  
-*{
+*{ 
     margin:0;
     padding:0;
     box-sizing: border-box;
-} 
+}
 
 /*elementos base*/
 body{
@@ -31,7 +31,7 @@ header .logo{
     font-family: 'Arial Black', Times;
     font-size:40px;
 }
-
+  
 header nav a{
     text-decoration:none;
     color:#AAA;
