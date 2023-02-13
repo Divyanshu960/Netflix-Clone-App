@@ -1,7 +1,7 @@
 # A Netflix Clone Application
   
 ## 💻 Project  
- 
+   
 This is Netflix Web project 
  
 You can find this project at (https://github.com/Divyanshu960/Netflix-Clone-App/)
