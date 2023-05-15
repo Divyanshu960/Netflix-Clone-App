@@ -8,7 +8,7 @@ You can find this project at (https://github.com/Divyanshu960/Netflix-Clone-App/
 
 ## 📋 Technologies
   
-I used->
+I used-> 
 - HTML 
 - CSS 
 - Bootstrap
