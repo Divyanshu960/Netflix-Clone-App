@@ -12,7 +12,7 @@ I used->
 - HTML 
 - CSS 
 - Bootstrap
-- JavaScript   
+- JavaScript     
    
 ## 🎨 Layout    
  
